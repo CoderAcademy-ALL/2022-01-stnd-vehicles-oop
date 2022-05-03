@@ -25,7 +25,7 @@ end
 # true
 # true
 victor = Bicycle.new(10, [:road, :dirt])
-victor.refuel(100)
+# victor.refuel(100)
 
 # false
 # true
@@ -35,7 +35,7 @@ daisy.refuel(100)
 # true
 # false
 tam = Bicycle.new(10, [:dirt])
-tam.refuel(20)
+# tam.refuel(20)
 
 # true
 # true
